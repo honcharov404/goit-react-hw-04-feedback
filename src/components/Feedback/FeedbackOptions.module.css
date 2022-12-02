@@ -1,0 +1,14 @@
+.options {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.btn {
+  padding: 5px 15px;
+  border: 1px solid rgb(181, 181, 181);
+  background-color: #fff;
+  text-transform: capitalize;
+  border-radius: 8px;
+  cursor: pointer;
+}
